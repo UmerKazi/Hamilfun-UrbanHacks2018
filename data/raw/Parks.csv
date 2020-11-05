@@ -1,0 +1,617 @@
+﻿OBJECTID,NAME,OWNER_NAME,CLASSIFICATION,TYPE,AREA_HA,ZONING_CODE
+16,Beverly Community Park,HAMILTON CITY,City Wide,Sports,24.6477,P3
+17,Little John Park,HAMILTON CITY,Neighbourhood,Passive,1.1655,P1
+18,Confederation Beach Park,HAMILTON CITY,City Wide,Waterfront,96.4974,P3
+19,Hill Street Park/lots,HAMILTON CITY,Neighbourhood,Active,0.9847,P1
+20,Warren Park,HAMILTON CITY,Natural Open Space,Natural (T),2.7981,P5
+21,Dean Vista Park,CITY OF HAMILTON,Natural Open Space,,2.9264,P5
+22,Museum Of Steam & Technology,TRANSPORTATION MINISTRY,Museum,Miscellaneous,1.0707,
+23,Centennial Heights Park,HAMILTON CITY,Community,Sports,2.9343,P2
+24,Freelton Community Park,HAMILTON CITY,Community,Sports,1.0013,P2
+25,Riverwalk Park,HAMILTON CITY,Parkette,Passive,0.3457,P1
+26,Wildan Tot Lot,HAMILTON CITY,Parkette,Passive,0.2043,P1
+27,Courtcliffe Park Open Space,HAMILTON CITY,Natural Open Space,Sports,23.5776,P5
+28,Woodlot Royal Conservatory,HAMILTON CITY,Natural Open Space,Natural (T),10.2253,P5
+29,Courtcliffe Community Park,HAMILTON CITY,City Wide,,16.6762,P3
+57,Lucy Day Park,HAMILTON CITY,Parkette,Active,0.3,P1
+58,Lynden Legion Park,HAMILTON CITY,Community,Sports,3.2378,P2
+59,Lynden Lions South,HAMILTON CITY,Community,Miscellaneous (T),3.7737,P2
+60,Jerseyville Park,HAMILTON CITY,Neighbourhood,Sports,2.0064,P1
+61,Ancaster Senior's Achievement Centre Park,HAMILTON CITY,Community,Sports,1.6185,P2
+62,Fieldcote Memorial Park,HAMILTON CITY,Museum,Historical,2.829,
+63,Stoneham Park,HAMILTON CITY,Parkette,Passive,0.4955,P1
+64,Arrowhon Natural Area,HAMILTON CITY,Natural Open Space,Natural (T),3.0408,P5
+65,Waterdown Memorial Park,HAMILTON CITY,Community,Sports,7.1205,P2
+66,Jackie Washington Park,CITY OF HAMILTON,Neighbourhood,,1.9772,P1
+67,Benetto Rec Center,CITY OF HAMILTON,Neighbourhood,,1.0558,P1
+68,Bayview Playground,HAMILTON CITY,Parkette,Active,0.4583,P1
+69,Simcoe Tot Lot,HAMILTON CITY,Parkette,Passive,0.3421,P1
+70,Eastwood Park,HAMILTON CITY,Community,Sports,5.9537,P2
+71,Kinsmen Park,HAMILTON CITY,Neighbourhood,Active,0.4534,P1
+72,Mclaren Park,HAMILTON CITY,Parkette,Active,0.3303,P1
+73,Ferrie Street Lot,HAMILTON CITY,Parkette,Passive,0.2997,P1
+74,Skyway Park,HAMILTON CITY,Parkette,Active,0.2197,P1
+75,Rockview Summit,HAMILTON CITY,Parkette,Passive,0.6065,P1
+76,Valley Community Centre Park,HAMILTON CITY,Community,Sports,4.0461,P2
+77,Edwards Memorial Park,HAMILTON CITY,Neighbourhood,Sports,1.0996,P1
+78,Dundurn Park,HAMILTON CITY,Museum,Historical,11.524,
+79,York Blvd General Open Space,HAMILTON CITY,General Open Space,,2.2247,P4
+30,Carlisle Memorial Park,HAMILTON CITY,Neighbourhood,Sports,0.8825,P1
+31,Millgrove Community Park,HAMILTON CITY,Community,Sports,2.5554,P2
+32,Sealy Park,HAMILTON CITY,Neighbourhood,Passive,0.9893,P1
+33,Churchill Park,ROYAL BOTANICAL GARDENS,Community,Sports,14.5646,P2
+34,Gatestone Open Space,HAMILTON CITY,General Open Space,,0.9607,P4
+35,Gourley Park Open Space,HAMILTON CITY,Natural Open Space,Active,4.492,P5
+36,Johnson Tew Park,HAMILTON CITY,Community,,15.2087,P2
+37,Palomino Ranch,HAMILTON CITY,Community,Passive,2.6336,P2
+38,Gatesbury Park,HAMILTON CITY,Community,Sports,4.5588,P2
+39,Beasley Park,HAMILTON CITY,Community,Active,1.4116,P2
+40,Woodland Park,HAMILTON CITY,Neighbourhood,Sports,2.1354,P1
+41,Pinky Lewis Parkette,HAMILTON CITY,Parkette,Sports,0.0927,P1
+42,North Central Community Park,HAMILTON CITY,Neighbourhood,Sports,0.5955,P1
+43,Birge Park,HAMILTON CITY,Community,Active,0.5135,P2
+44,Keith Park,HAMILTON CITY,Parkette,Active,0.0697,P1
+45,Chedoke Crossway,HAMILTON CITY,Natural Open Space,Natural (T),3.7481,P5
+46,Stroud Road Park,HAMILTON CITY,Natural Open Space,Passive,1.4665,P5
+47,Olympic Sports Park 1,HAMILTON CITY,City Wide,Sports,4.9951,P3
+48,Margaret Street Park,HAMILTON CITY,Parkette,Passive,0.5597,P1
+49,Bayfront Park,HAMILTON CITY,City Wide,Waterfront,20.1181,P3
+50,York Blvd Parkette,CITY OF HAMILTON,Parkette,,0.0247,P1
+51,Kenilworth Access Parkette 1,CITY OF HAMILTON,Parkette,(null),0.6258,P1
+52,Park Row North Parkette,CITY OF HAMILTON,Parkette,(null),0.2126,P1
+53,Pier 4 Park,HAMILTON CITY,City Wide,Waterfront,3.148,P3
+54,Macassa Bay Walkway,"HAMILTON CITY; MACASSA BAY YACHT CLUB",City Wide,Waterfront,1.9235,P3
+55,Sheldon Manor,HAMILTON CITY,Neighbourhood,Passive,0.7921,P1
+56,Battlefield Park Open Space,HAMILTON CITY,General Open Space,Historical,7.8938,P4
+1,Sheffield Ball Park,HAMILTON CITY,Community,Sports,1.6255,P2
+2,Gourley Park,HAMILTON CITY,Neighbourhood,Active,0.9951,P1
+3,Martino Memorial Park,HAMILTON CITY,Community,Sports,1.4568,P2
+4,Centennial Park,HAMILTON CITY,Neighbourhood,Passive,0.8776,P1
+5,North Wentworth Community Park,HAMILTON CITY,Community,Sports,8.5561,P2
+6,Belmont Park,HAMILTON CITY,Neighbourhood,Sports,2.0478,P1
+7,Block 87 Park,HAMILTON CITY,Parkette,Passive,0.9187,P1
+8,Guy Brown Park,HAMILTON CITY,Parkette,Passive,0.3703,P1
+9,Block 114 Park,HAMILTON CITY,Parkette,Passive,0.3927,P1
+10,Hillside Park,HAMILTON CITY,Parkette,Passive,0.1642,P1
+11,Mountsberg Hall Park,HAMILTON CITY,Parkette,Passive,0.4046,P1
+12,Westfield Heritage Centre,HAMILTON CITY,Museum,Miscellaneous (T),145.6821,
+13,Carlisle Community Centre Park,HAMILTON CITY,Community,Sports,4.8332,P2
+14,Veterans Park,HAMILTON CITY,Natural Open Space,Sports,6.8435,P5
+15,Veterans Park,HAMILTON CITY,Neighbourhood,Sports,3.3022,P1
+204,Durand Park,HAMILTON CITY,Neighbourhood,Active,0.7222,P1
+205,Natural Open Space Ward 2,CITY OF HAMILTON,Natural Open Space,,4.499,P5
+206,T.melville Bailey Park,HAMILTON CITY,Parkette,Active,0.5638,P1
+207,Southam Park,HAMILTON CITY,Neighbourhood,Passive,1.0482,P1
+208,Father Sean O'sullivan 2,CITY OF HAMILTON,Neighbourhood,,3.2231,P1
+209,Captain Cornelius Park,HAMILTON CITY,Community,Sports,7.1144,P2
+210,King's Mead Park,HAMILTON CITY,Parkette,Passive,0.1558,P1
+211,Buchanan Park,HAMILTON CITY,Community,Sports,2.7499,P2
+212,J.c. Beemer Park,HAMILTON CITY,Neighbourhood,Active,0.6867,P1
+213,Tweedsmuir,HAMILTON WENTWORTH DISTRICT SCHOOL,Neighbourhood,,0.3548,P1
+214,Bishop's Park,HAMILTON CITY,Parkette,Active,0.0889,P1
+215,Myrtle Park,HAMILTON CITY,Neighbourhood,Active,0.4527,P1
+216,Sam Lawrence Parkette,HAMILTON CITY,Parkette,Passive,0.1511,P1
+217,Century Street Park,CITY OF HAMILTON,Parkette,Passive,0.0417,P1
+218,Powell Park,HAMILTON CITY,Neighbourhood,Active,0.8971,P1
+219,Cumberland Tot Lot,HAMILTON CITY,Parkette,Passive,0.1125,P1
+220,Billy Sherring Park,HAMILTON CITY,Community,Passive,8.8911,P2
+221,Bruleville Park,HAMILTON CITY,Neighbourhood,Active,0.6985,P1
+222,Bruce Park,HAMILTON CITY,Neighbourhood,Active,3.436,P1
+223,Beulah Park,HAMILTON CITY,Parkette,Active,0.3713,P1
+224,Chedoke Tot Lot,HAMILTON CITY,General Open Space,Active,0.5512,P4
+80,Ferguson Station,HAMILTON CITY,City Wide,,0.063,P3
+81,Kay Drage Park,HAMILTON CITY,Community,Sports,10.6337,P2
+82,Coronation Park Pool Rink,HAMILTON CITY,Community,Active,2.3357,P2
+83,Fisher's Mill Park,HAMILTON CITY,Neighbourhood,,1.091,P1
+84,Tom Street Park,HAMILTON CITY,Neighbourhood,Active,1.4635,P1
+85,Jackson Playground,HAMILTON CITY,Parkette,Active,0.4519,P1
+86,Dundurn Parkette,CITY OF HAMILTON,Parkette,,0.1719,P1
+87,Victoria Park,HAMILTON CITY,Community,Sports,5.2441,P2
+88,Central Park,HAMILTON CITY,Neighbourhood,Active,3.2508,P1
+89,Beach Blvd Park #1,HAMILTON CITY,Parkette,Passive,0.2079,P1
+90,Dieppe Park,HAMILTON CITY,City Wide,,0.315,P3
+91,East Kiwanis Place Parkette,CITY OF HAMILTON,Parkette,(null),0.0413,P1
+92,Simcoe Street Lot,HAMILTON CITY,Parkette,Passive,0.3424,P1
+93,Chegwin Park,HAMILTON CITY,Natural Open Space,Passive,0.5378,P5
+94,Bullock's Corners,HAMILTON CITY,Neighbourhood,Sports,2.0943,P1
+95,Yorkshire Heights Park,HAMILTON CITY,Parkette,Passive,0.2657,P1
+96,John Prentice Park,HAMILTON CITY,Parkette,Passive,0.4262,P1
+97,Battlefield Park,HAMILTON CITY,Museum,Historical,5.3014,
+98,Kenilworth Access Parkette 3,CITY OF HAMILTON,Parkette,(null),0.1607,P1
+99,Kenilworth Access Parkette 2,CITY OF HAMILTON,Parkette,(null),0.3621,P1
+100,Amberly Park,HAMILTON CITY,Neighbourhood,Passive,2.1599,P1
+101,Pinecrest Park,HAMILTON CITY,Neighbourhood,Passive,1.5801,P1
+102,Meadowlands Community Park,HAMILTON CITY,Community,Undeveloped,7.7021,P2
+103,Mohawk Meadows,HAMILTON CITY,Neighbourhood,Passive,1.1501,P1
+104,Wildwood Park,HAMILTON CITY,Parkette,Passive,0.7023,P1
+105,Sanctuary Park,HAMILTON CITY,Neighbourhood,Sports,3.6882,P1
+106,Leslie B. Couldrey Park,HAMILTON CITY,Neighbourhood,Sports,2.4915,P1
+107,Bumble Bee Park,HAMILTON CITY,Parkette,Passive,0.4003,P1
+108,Sherwood Vale Lot,HAMILTON CITY,Parkette,Passive,0.0957,P1
+109,High Park,HAMILTON CITY,Neighbourhood,Passive,1.2208,P1
+110,Radial Right Of Way Ancaster,CITY OF HAMILTON,General Open Space,,2.6129,P4
+111,Golf Links Park #2,HAMILTON CITY,Natural Open Space,Passive,6.042,P5
+112,Ancaster Heights,HAMILTON CITY,Neighbourhood,Passive,0.8422,P1
+113,Village Green Park,HAMILTON CITY,Community,Passive,1.1846,P2
+114,Borer's Dog Park,,General Open Space,Dog Park,0.686,
+115,Scenic Park,HAMILTON CITY,Parkette,Passive,0,P1
+116,Rosebough Park,HAMILTON CITY,Neighbourhood,Sports,1.5621,P1
+117,Oakwood Place Park,HAMILTON CITY,Parkette,Passive,0.0951,P1
+118,Dalewood Recreation Centre,HAMILTON CITY,Community,Sports,0.1103,P2
+119,City Hall,HAMILTON CITY,City Wide,,1.8189,P3
+120,Birch Avenue Park,HAMILTON CITY,Neighbourhood,Hydro,0.417,P1
+121,Leaside Park,HAMILTON CITY,Neighbourhood,Active,1.6472,P1
+122,Open Space Beside Coronation Arena,HAMILTON CITY,General Open Space,,4.792,P4
+123,Mark Anthony Graham Memorial Olympic Park,HAMILTON CITY,Community,Sports,8.9724,P2
+124,Mountview Park,HAMILTON CITY,Neighbourhood,Active,3.9216,P1
+125,Chedoke Twin Pad Arena,HAMILTON CITY,City Wide,Sports,2.4266,P3
+126,Alexander Park,HAMILTON CITY,Neighbourhood,Sports,4.2044,P1
+127,Witherspoon Park,HAMILTON CITY,Parkette,Miscellaneous (T),0.1839,P1
+128,Morton Park,HAMILTON CITY,Neighbourhood,Passive,0.8492,P1
+129,Somerset Park,HAMILTON CITY,Neighbourhood,Passive,1.528,P1
+130,Mansfield Park,HAMILTON CITY,Parkette,Passive,0.0572,P1
+131,Postlawn Park,HAMILTON CITY,Parkette,Passive,0.2416,P1
+132,Ancaster Little League (Spring Valley Bowl),HAMILTON CITY,Community,Sports,6.1023,P2
+133,James Smith Park,HAMILTON CITY,Neighbourhood,Sports,7.0814,P1
+134,Meadowbrook Park,HAMILTON CITY,Neighbourhood,Passive,1.1943,P1
+135,Greenside Acres Park,HAMILTON CITY,Natural Open Space,Natural (T),3.1616,P5
+136,Brockhouse Park,HAMILTON CITY,Parkette,Passive,0.1609,P1
+137,Dalewood Park,HAMILTON CITY,Parkette,Passive,0.0158,P1
+138,Tyne Place Park,CITY OF HAMILTON,Parkette,(null),0.0928,P1
+139,Valens Park,CITY OF HAMILTON,Community,(null),0.8179,P2
+140,Cliffiview Park,HAMILTON CITY,Parkette,Passive,0.7873,P1
+141,Scenic Park,HAMILTON CITY,Parkette,Active,0.3265,P1
+142,Lions Gate Park,HAMILTON CITY,Neighbourhood,Active,0.9727,P1
+143,William Mcculloch Park,HAMILTON CITY,Community,Sports,6.4211,P2
+144,Holbrook Park,HAMILTON CITY,Neighbourhood,Miscellaneous (T),0.9595,P1
+145,Fonthill Park,HAMILTON CITY,Neighbourhood,Active,1.364,P1
+146,Scenic Woods,HAMILTON CITY,Neighbourhood,Sports,3.0477,P1
+147,Berklin Drive Ravine,CITY OF HAMILTON,Parkette,(null),0.2352,P1
+148,Langs Park,HAMILTON CITY,Natural Open Space,Natural (T),1.9671,P5
+149,St. Vincent De Paul Playground,HAMILTON-WENTWORTH ROMAN,School Site,Separate School Board,1.4341,
+150,Harmony Park,HAMILTON CITY,Neighbourhood,Passive,0.8831,P1
+151,Maple Lane Park,HAMILTON CITY,Neighbourhood,Passive,2.1749,P1
+152,Bookjans Natural Open Space,CITY OF HAMILTON,Natural Open Space,,0.7082,P5
+153,Moorland Park,CITY OF HAMILTON,Neighbourhood,,1.2452,P1
+154,Shawinigan Park,HAMILTON CITY,Neighbourhood,Active,2.4879,P1
+155,Gilkson Park,HAMILTON CITY,Neighbourhood,Sports,2.0892,P1
+156,Optimist Park,HAMILTON CITY,Neighbourhood,Passive,0.8094,P1
+157,Kitty Murray Park,HAMILTON CITY,Neighbourhood,Passive,1.799,P1
+158,Cathedral Park,HAMILTON CITY,Community,Passive,2.4915,P2
+159,Cascades Park,HAMILTON CITY,Neighbourhood,,0.703,P1
+160,Mountain Brow West,HAMILTON CITY,Neighbourhood,Passive,2.9619,P1
+161,Concession/upper Sherman,HAMILTON CITY,Parkette,Passive,0.2559,P1
+162,Wellington Park,HAMILTON CITY,Parkette,Passive,0.2947,P1
+163,Rail Trail Dog Park,HAMILTON CITY,Natural Open Space,Passive,0.3019,P5
+164,Whitton,CITY OF HAMILTON,Parkette,(null),0.1718,P1
+165,Kennedy East Open Space,CITY OF HAMILTON,Utilities,(null),0.4058,
+166,St. Joseph's Park,HAMILTON CITY,Parkette,Passive,0.0412,P1
+167,Ryerson Recreation Centre,HAMILTON CITY,Community,Sports,0.4559,P2
+168,Hamilton Amateur Athletic Assoc.,HAMILTON CITY,Community,Sports,2.7977,P2
+169,Radial Park,HAMILTON CITY,Parkette,Active,0.1202,P1
+170,Mapleside Park,CITY OF HAMILTON,Parkette,,0.2294,P1
+171,Kopperfield Park,HAMILTON CITY,Neighbourhood,Passive,0.8327,P1
+172,Robert E. Wade Ancaster Community Park,HAMILTON CITY,City Wide,Sports,18.1695,P3
+173,(Hemming Park) Open Space,HAMILTON CITY,Natural Open Space,Miscellaneous (T),27.9545,P5
+174,Lion's Outdoor Pool (Hemming Park),HAMILTON CITY,Community,Miscellaneous (T),1.6504,P2
+175,Macassa Park,HAMILTON CITY,Community,Sports,6.9597,P2
+176,Lifesavers Park,CITY OF HAMILTON,Parkette,Miscellaneous (T),0.2776,P1
+177,Falkirk West Park,HAMILTON CITY,Neighbourhood,,1.6137,P1
+178,William Schwenger Park,HAMILTON CITY,Community,Active,10.8205,P2
+179,Meadowbank Dr. Parkette,CITY OF HAMILTON,Parkette,,0.1929,P1
+180,Scenic Park,HAMILTON CITY,Parkette,Passive,0,P1
+181,Huntington Park/recreation Centre,HAMILTON CITY,Community,Active,1.8433,P2
+182,Scenic Park,HAMILTON CITY,Parkette,Passive,1.9156,P1
+183,Century St Parkette,City of Hamilton,Parkette,(null),0.0578,
+184,Strathcona Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,0.4563,
+185,Rousseau Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.905,
+186,Eringate Park,HAMILTON CITY,Neighbourhood,,1.6762,P1
+187,Escarpment Ward 2,HAMILTON CITY,Natural Open Space,Natural (T),13.3563,P5
+188,Corktown Park,HAMILTON CITY,Community,Sports,1.8007,P2
+189,Shamrock Park,HAMILTON CITY,Neighbourhood,Active,0.8297,P1
+190,Central Memorial Recreation Centre,HAMILTON CITY,Neighbourhood,Sports,0.5672,P1
+191,Claremont Access Parkettes,HAMILTON CITY,Parkette,Passive,0.2078,P1
+192,Carter Park,HAMILTON CITY,Neighbourhood,Active,0.6687,P1
+193,Carpenter Neighbourhood Park,HAMILTON CITY,Neighbourhood,Undeveloped,1.0272,P1
+194,Garth Street/twenty Rd Open Space,CITY OF HAMILTON,Natural Open Space,,2.4939,P5
+195,Carluke Hall,HAMILTON CITY,Neighbourhood,Passive,0.4126,P1
+196,Southampton Estates Park,1536708 ONTARIO INC,Neighbourhood,,0.6475,P1
+197,Mount Hope Park,HAMILTON CITY,Community,Miscellaneous (T),3.1885,P2
+198,Gage Park,HAMILTON CITY,City Wide,Sports,28.8424,P3
+199,Sam Lawrence Park,HAMILTON CITY,City Wide,Passive,7.6256,P3
+200,Woolverton Park,HAMILTON CITY,Neighbourhood,Active,0.5607,P1
+201,Gore Park,HAMILTON CITY,City Wide,Passive,0.4364,P3
+202,Hannon South Open Space,HAMILTON CITY,Natural Open Space,Natural (T),5.7936,P5
+203,Whitehern,HAMILTON CITY,Museum,Historical,0.347,
+243,Upper Sherman Corridor,CITY OF HAMILTON,General Open Space,,2.4166,P4
+244,Escarpment Ward 3,HAMILTON CITY,Natural Open Space,Natural (T),40.284,P5
+245,Eastmount,HAMILTON CITY,Neighbourhood,Sports,2.8393,P1
+246,Mountain Drive,HAMILTON CITY,Neighbourhood,Active,4.9517,P1
+247,Bobby Kerr Park,HAMILTON CITY,Neighbourhood,Sports,4.0418,P1
+248,Berrisfield Park,HAMILTON CITY,Neighbourhood,Active,1.3881,P1
+249,Lisgar Park,HAMILTON CITY,Neighbourhood,Active,2.3012,P1
+250,Randall Park,HAMILTON CITY,Neighbourhood,Natural (T),2.0592,P1
+251,Park Corridor #2,HAMILTON CITY,General Open Space,Passive,4.8576,P4
+252,Mount Lion's Club Park,HAMILTON CITY,Neighbourhood,Sports,2.4648,P1
+253,Broughton Park West,CITY OF HAMILTON,Neighbourhood,,1.1714,P1
+254,Eleanor Park,HAMILTON CITY,Neighbourhood,Active,2.2231,P1
+255,Mohawk / Sanatorium Parkette,HAMILTON CITY,Parkette,Passive,0.5792,P1
+256,Leadale Place Parkette,HAMILTON CITY,Parkette,Passive,0.0424,P1
+257,Newlands Park,HAMILTON CITY,Neighbourhood,Active,1.7269,P1
+258,Norwood Park,HAMILTON CITY,Neighbourhood,Active,1.3994,P1
+259,Richwill Playground,HAMILTON CITY,Neighbourhood,Active,0.6097,P1
+260,Upper Wellington/fennell Park,HAMILTON CITY,Parkette,Passive,0.0526,P1
+261,Mountain Arena/skating Centre,HAMILTON CITY,Community,Sports,2.5532,P2
+262,Peace Memorial,CITY OF HAMILTON,Neighbourhood,,2.1356,P1
+263,Burkholder Park,HAMILTON CITY,Neighbourhood,Passive,1.2312,P1
+264,Fernwood Park,HAMILTON CITY,Neighbourhood,Sports,1.279,P1
+265,Veevers Park,HAMILTON CITY,Neighbourhood,Active,0.8364,P1
+266,Hampton Park,HAMILTON CITY,Neighbourhood,Active,0.9449,P1
+267,Dr. William Bethune Park,HAMILTON CITY,Community,Active,4.1244,P2
+268,Allison Neighbourhood Park,HAMILTON CITY,Neighbourhood,Passive,0.9392,P1
+269,Barton Melvin Triangle,HAMILTON CITY,Natural Open Space,Passive,1.2585,P5
+270,Globe Park,CITY OF HAMILTON,Community,Sports,12.4254,P2
+271,Henry & Beatrice Warden Park,HAMILTON CITY,Neighbourhood,Active,3.9069,P1
+272,Lake Avenue Park/bow Valley Open Space,HAMILTON CITY,Neighbourhood,Active,1.9949,P1
+273,Templemead Park,HAMILTON CITY,Neighbourhood,Sports,1.6832,P1
+274,Mahony Park,HAMILTON CITY,Community,Sports,4.0082,P2
+275,Parkdale Park,HAMILTON CITY,Community,Active,3.8957,P2
+276,Rosedale Park,HAMILTON CITY,Community,Sports,21.9669,P2
+277,Dundas Open Space,CITY OF HAMILTON,General Open Space,,3.7266,P4
+278,King's Forest Park,CITY OF HAMILTON,Natural Open Space,Natural (T),100.9747,P5
+279,King's Forest Golf Course,HAMILTON CITY,General Open Space,Sports,0.0035,P4
+280,Red Hill Bowl,HAMILTON CITY,Community,Sports,5.1128,P2
+281,Red Hill Neighbourhood Park,CITY OF HAMILTON,Neighbourhood,Active,0.9946,P1
+309,Stoneywood Park,HAMILTON CITY,Neighbourhood,Sports,2.0044,P1
+310,Escarpment Ward 5,CITY OF HAMILTON,Natural Open Space,,0,P5
+311,Fay Avenue Park,HAMILTON CITY,Neighbourhood,Active,2.3399,P1
+312,Glenholme Avenue Park,HAMILTON CITY,Parkette,Passive,0.0975,P1
+313,Hillcrest Park,HAMILTON CITY,Community,Sports,11.4693,P2
+314,Glen Castle Park,HAMILTON CITY,Neighbourhood,Sports,0.7222,P1
+315,Mohawk Sports Park,HAMILTON CITY,City Wide,Sports,57.3474,P3
+316,Albion Falls Park,HAMILTON CITY,Natural Open Space,Natural (T),4.5489,P5
+317,Albion Falls Open Space,HAMILTON CITY,Natural Open Space,Natural (T),12.765,P5
+318,Matt Broman Park,HAMILTON CITY,Parkette,Passive,1.1446,P1
+319,Armes Lookout,HAMILTON CITY,Parkette,Passive,0.4293,P1
+320,Newcombe Road Open Space,HAMILTON CITY,Natural Open Space,Undeveloped,1.4316,
+321,St. Christopher's Park,HAMILTON CITY,Neighbourhood,Active,0.743,P1
+322,R.t. Steele Park,HAMILTON CITY,Neighbourhood,Active,0.5947,P1
+323,Andrew Warburton Memorial Park,HAMILTON CITY,Neighbourhood,Active,1.0016,P1
+282,Carpenter Ave Open Space 2,HAMILTON CITY,General Open Space,,0.2021,P4
+283,Valley Park,HAMILTON CITY,City Wide,Sports,18.9571,P3
+284,William Connell Park,HAMILTON CITY,City Wide,Undeveloped,19.6746,P3
+285,Shaver Estates Park,HAMILTON CITY,Natural Open Space,,1.6807,P5
+286,Lawfield Park,HAMILTON CITY,Community,Sports,3.0939,P2
+287,Austin Park,HAMILTON CITY,Neighbourhood,Active,0.8723,P1
+288,Mountside/rifle Range Natural Open Space,HAMILTON CITY,Natural Open Space,,5.2896,P5
+289,Montgomery Park,HAMILTON CITY,Neighbourhood,Sports,5.0746,P1
+290,A.m. Cunningham Parkette,HAMILTON CITY,Parkette,,0.094,P1
+291,Belview Park,HAMILTON CITY,Neighbourhood,Active,0.8127,P1
+292,Haywood Park,HAMILTON CITY,Parkette,Active,0.0611,P1
+293,Little Albert Park,HAMILTON CITY,Parkette,Passive,0.0062,P1
+294,Delta Park,HAMILTON CITY,Parkette,Passive,0.167,P1
+295,Frederick Parkette,HAMILTON CITY,Parkette,(null),0.1484,P1
+296,Highland Park Open Space,City of Hamilton,Natural Open Space,,1.4957,P5
+297,Maplewood Park,HAMILTON CITY,Community,Sports,7.1466,P2
+298,Greenhill Open Space,HAMILTON CITY,Natural Open Space,Natural (T),12.2216,P5
+299,Sackville Hill Memorial Park,HAMILTON CITY,Community,Sports,8.0641,P2
+300,Inch Park,HAMILTON CITY,Community,Sports,4.7197,P2
+301,Mohawk Gardens,HAMILTON CITY,Neighbourhood,Active,0.5601,P1
+302,Highview Park,HAMILTON CITY,Neighbourhood,Active,2.0839,P1
+303,Greenhill Park,HAMILTON CITY,Neighbourhood,Active,4.4963,P1
+304,Father Sean O'sullivan Memorial Park,HAMILTON CITY,Neighbourhood,Active,2.2327,P1
+305,Vincent/gershome Open Space,HAMILTON CITY,Natural Open Space,Natural (T),26.0374,P5
+306,Oak-Knoll Park,HAMILTON CITY,Natural Open Space,Natural (T),2.2284,P5
+307,Upper King's Forest Park,HAMILTON CITY,Natural Open Space,Natural (T),5.9773,P5
+308,White Deer Park Natural Open Space,HAMILTON CITY,Natural Open Space,Passive,2.706,P5
+225,Colquhoun Park,HAMILTON CITY,Community,Sports,3.9662,P2
+226,Highland Gardens Park,HAMILTON CITY,Neighbourhood,Sports,3.5222,P1
+227,Kernighan Neighbourhood Park,HAMILTON CITY,Neighbourhood,Undeveloped,0.4536,P1
+228,Kennedy East Park,HAMILTON CITY,Neighbourhood,Active,1.1878,P1
+229,Honourable Bob Mckenzie Park,CITY OF HAMILTON,Neighbourhood,,0.2595,
+230,Elmar Park,HAMILTON CITY,Neighbourhood,Active,3.0109,P1
+231,Jerome Neighbourhood Park,HAMILTON CITY,Neighbourhood,Undeveloped,2.3566,P1
+232,Crerar Neighbourhood Park #1,HAMILTON CITY,Natural Open Space,Undeveloped,1.169,P5
+233,Bryna Park,HAMILTON CITY,Parkette,Active,0.1995,P1
+234,Bruleville Nature Park,HAMILTON CITY,Natural Open Space,Natural (T),2.3641,P5
+235,Crerar Natural Open Space,CITY OF HAMILTON,Natural Open Space,,1.7916,P5
+236,Homebrook Park,HAMILTON CITY,Neighbourhood,Passive,1.8307,P1
+237,Turner Park,HAMILTON CITY,City Wide,Sports,38.3213,P3
+238,Chappel East Park #1,HAMILTON CITY,Parkette,Undeveloped,0.3338,P1
+239,Park Corridor #1,HAMILTON CITY,General Open Space,Passive,4.2489,P4
+240,T.b. Mcquesten Park,HAMILTON CITY,Community,Sports,13.1533,P2
+241,Thorner Park,HAMILTON CITY,Neighbourhood,Active,1.8006,P1
+242,Rushdale Park,HAMILTON CITY,Neighbourhood,Active,1.3156,P1
+441,Paramount Drive Open Space,HAMILTON CITY,General Open Space,,1.2372,P4
+442,Winterberry Drive Open Space,HAMILTON CITY,General Open Space,,0.5069,P4
+443,Open Space Beside Aylmer Parkette,HAMILTON CITY,General Open Space,,3.3372,P4
+444,Maple Ave Open Space,HAMILTON CITY,General Open Space,,0.2336,P4
+445,King Y Battlefield,HAMILTON CITY,General Open Space,,0.0625,P4
+446,Escarpment Ward 5,CITY OF HAMILTON,Natural Open Space,Natural (T),8.6624,P5
+447,Stone Church Meadowlands Open Space,HAMILTON CITY,General Open Space,,3.1003,P4
+448,Joshua Ave Open Space,HAMILTON CITY,General Open Space,,0.6758,P4
+449,Stone Church Rd Open Space,HAMILTON CITY,General Open Space,,4.3798,P4
+450,Golf Links Rd. Open Space 2,HAMILTON CITY,General Open Space,,0.1395,P4
+324,Normanhurst Community Centre,HAMILTON CITY,Community,Active,0.0906,P2
+325,Escarpment Ward 4,HAMILTON CITY,Natural Open Space,Natural (T),10.2792,P5
+326,Roxborough Park,HAMILTON CITY,Neighbourhood,Active,1.4546,P1
+327,Hixon Road Park,HAMILTON CITY,Parkette,Active,0.4484,P1
+328,Glendale Park,HAMILTON CITY,Neighbourhood,Active,2.0196,P1
+329,Sam Manson Park,HAMILTON CITY,Community,Sports,6.0932,P2
+330,Little League Park,HAMILTON CITY,Community,Sports,4.0913,P2
+331,Green Acres Park,HAMILTON CITY,Community,Sports,5.4733,P2
+332,Dover Park,HAMILTON CITY,Neighbourhood,Active,1.3718,P1
+333,Trenholme Park,HAMILTON CITY,Neighbourhood,Active,4.4901,P1
+334,Albion Estates Park,HAMILTON CITY,Neighbourhood,Passive,3.298,P1
+335,Pineridge Park,HAMILTON CITY,Neighbourhood,,1.8206,P1
+336,White Deer Park,HAMILTON CITY,Neighbourhood,Passive,1.5829,P1
+337,Noble Kirk Park,CITY OF HAMILTON,Parkette,(null),0.1752,P1
+338,Cline Park,HAMILTON CITY,Neighbourhood,Sports,2.6355,P1
+339,Fairgrounds Community Park,CITY OF HAMILTON,Community,,4.7134,P2
+340,Jackson Heights Park,HAMILTON CITY,Neighbourhood,,0.986,P1
+341,St. Joseph Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,SCHOOL SITE,0.5241,
+342,Southbrook Park,HAMILTON CITY,Neighbourhood,,1.2618,P1
+343,Proposed,HAMILTON CITY,Utilities,,1.5679,
+344,Tapleytown Park,HAMILTON CITY,Neighbourhood,Sports,2.6303,P1
+345,87 Acres Park,HAMILTON CITY,Natural Open Space,Natural (T),39.8337,P5
+346,Cherry Heights Park,HAMILTON CITY,Neighbourhood,Sports,3.403,P1
+347,Sherwood Park,HAMILTON CITY,Community,Sports,7.6089,P2
+348,Dewitt Park,HAMILTON CITY,Neighbourhood,Sports,2.1416,P1
+349,Cenotaph Park,HAMILTON CITY,Parkette,Historical,0.112,P1
+350,King Street Parkette,HAMILTON CITY,Parkette,Historical,0.4082,P1
+351,Eastdale Park,HAMILTON CITY,Community,Sports,4.285,P2
+352,Edgelake Park,HAMILTON CITY,Neighbourhood,Passive,1.3092,P1
+353,Lawrence P. Sayers Park,HAMILTON CITY,Parkette,Passive,0.3392,P1
+354,Riverdale East Park (Oaklands),CITY OF HAMILTON,Neighbourhood,Active,3.7445,P1
+355,Dewitt Parkette,HAMILTON CITY,Parkette,,0.1401,P1
+356,Fifty Road Parkette,HAMILTON CITY,Parkette,,0.1908,P1
+357,John Watson Park,HAMILTON CITY,Natural Open Space,Natural (T),1.0118,P5
+358,Bow Valley Open Space,HAMILTON CITY,Natural Open Space,Natural (T),21.126,P5
+359,Ferris Park,HAMILTON CITY,Neighbourhood,Sports,4.2995,P1
+360,Bayview West Park,HAMILTON CITY,Neighbourhood,Sports,2.3896,P1
+361,Red Hill Valley,HAMILTON CITY,Natural Open Space,Natural (T),2.5439,P5
+362,Woodward Park,HAMILTON CITY,Neighbourhood,Active,1.3163,P1
+363,Brampton Street Park,HAMILTON CITY,Parkette,Passive,0.2276,P1
+364,Glow Park,HAMILTON CITY,Parkette,Active,0.3744,P1
+365,St. Helen's School Walkway,CITY OF HAMILTON,Natural Open Space,,0.4074,P5
+366,Paramount Park,HAMILTON CITY,Neighbourhood,Sports,2.431,P1
+367,Red Hill Valley,HAMILTON CITY,Natural Open Space,Natural (T),53.2799,P5
+368,Red Hill Valley,HAMILTON CITY,Natural Open Space,Natural (T),0,P5
+369,Red Hill Valley,HAMILTON CITY,Natural Open Space,Natural (T),0,P5
+370,Sherwood Meadows Park,HAMILTON CITY,Neighbourhood,Passive,2.368,P1
+371,Mapledene Park,HAMILTON CITY,Neighbourhood,Passive,1.5656,P1
+372,John Willson Park,HAMILTON CITY,Neighbourhood,Passive,1.3941,P1
+373,Community Park,HAMILTON CITY,Community,Sports,2.3913,P2
+374,Felker Park,HAMILTON CITY,Neighbourhood,Sports,1.5922,P1
+375,Maplewood Green Park,HAMILTON CITY,Neighbourhood,Passive,1.3048,P1
+376,Aylmer Parkette,CITY OF HAMILTON,Parkette,,0.1748,P1
+377,Glanbrook Sports Complex,HAMILTON CITY,City Wide,Sports,21.8287,P3
+378,Summit Park,CITY OF HAMILTON,Neighbourhood,,2.1333,P1
+379,Red Hill Summit East Park,MULTI-AREA DEVELOPMENTS INC,Neighbourhood,,2.0217,P1
+380,Lakepoint Park,HAMILTON CITY,Neighbourhood,,1.4313,P1
+381,Hunter Estates Park,HAMILTON CITY,Neighbourhood,Sports,5.2564,P1
+382,Lakeview Dr Swm,HAMILTON CITY,Utilities,Passive,0.272,
+383,Waterford Park,HAMILTON CITY,Neighbourhood,Sports,1.613,P1
+384,Corman Park,HAMILTON CITY,Neighbourhood,Sports,1.5166,P1
+385,Town Square Parkette,HAMILTON CITY,Parkette,Passive,0.174,P1
+386,Memorial Park,HAMILTON CITY,Neighbourhood,Passive,4.0904,P1
+387,Winona Park,HAMILTON CITY,Community,Sports,6.1064,P2
+388,Woodburn Ball Park,HAMILTON CITY,Neighbourhood,Sports,1.6117,P1
+389,Lake Vista Park,MATTAMY (WINONA) LIMITED,Neighbourhood,,0.6601,P1
+390,Seabreeze Park,CITY OF HAMILTON,Neighbourhood,,1.0381,P1
+391,Trillium Open Space,CITY OF HAMILTON,Natural Open Space,,0.2238,P5
+392,Canada Marine Discovery Centre Open Space,PUBLIC WORKS CANADA,Museum,,3.2377,
+393,Millen Road Parkette,HAMILTON CITY,Parkette,,0.1244,P1
+394,Dundas Pool Arena,HAMILTON CITY,Community,,3.5034,P2
+395,Strachan Street General Open Space,HAMILTON CITY,General Open Space,,2.4109,P4
+396,Dundas Driving Park,HAMILTON CITY,Neighbourhood,Sports,0.9705,P1
+397,Dundas Driving Park,HAMILTON CITY,City Wide,Sports,10.62,P3
+398,York Rd Parkette,HAMILTON CITY,Parkette,,0.0647,P1
+399,Oakridge/lindsay Open Space,CITY OF HAMILTON,Natural Open Space,,5.7879,P5
+400,Glen Allen Drive Natural Open Space,CITY OF HAMILTON,Natural Open Space,,2.3138,P5
+401,Barton St/lake Ave Open Space,CITY OF HAMILTON,Natural Open Space,,7.2867,P5
+402,Greenhill Open Space #2,CITY OF HAMILTON,Natural Open Space,,2.8173,P5
+403,Mill Street Open Space,HAMILTON CITY,Natural Open Space,,3.9383,P5
+404,Talbot Lot,HAMILTON CITY,Parkette,Passive,0.0694,P1
+405,Peachwood Parkette,HAMILTON CITY,Parkette,Passive,0.2981,P1
+406,Glen Manor The Veevers Home,HAMILTON CITY,Museum,,0.5337,
+407,Olmstead Site,HAMILTON CITY,General Open Space,,2.5208,P4
+408,Mount Albion Open Space,HAMILTON CITY,Natural Open Space,,6.0722,P5
+409,Highland Green Park,HAMILTON CITY,Natural Open Space,,3.4061,P5
+410,Delottinville Park Open Space,HAMILTON CITY,Natural Open Space,Undeveloped,3.3486,P5
+411,Olympic Sports Park 2,HAMILTON CITY,Community,,4.9967,P2
+412,Strabane Community Park,HAMILTON CITY,Community,,3.4359,P2
+413,Todd Ofield Memorial Park,HAMILTON CITY,Parkette,,0.2794,P1
+414,Mountain Gate Proposed Natural Open Space,CITY OF HAMILTON,Natural Open Space,,1.0163,P5
+415,Beach Blvd Park #2,HAMILTON CITY,Natural Open Space,,1.733,P5
+416,Grays Road Parkette,HAMILTON CITY,Parkette,,0.0985,P1
+417,Albion Falls Nghd Open Space,HAMILTON CITY,Natural Open Space,,21.4928,P5
+418,Plateau Park,HAMILTON CITY,Parkette,Passive,0.3266,P1
+419,Open Space By 7 Innovation,HAMILTON CITY,General Open Space,,7.8364,P4
+420,Coreslab Dr Open Space,HAMILTON CITY,Natural Open Space,,2.7426,P5
+421,Smokey Hollow Park,HAMILTON CITY,Neighbourhood,,2.1855,P1
+422,Liuna Station Parkette,LIUNA GROUP CORPORATION,Parkette,,0.2434,P1
+423,Beach Strip Open Space #2,HAMILTON CITY,Natural Open Space,,0.5009,P5
+424,Carpenter Ave Open Space 1,HAMILTON CITY,General Open Space,,0.1827,P4
+425,Carpenter Park Extension,HAMILTON CITY,Neighbourhood,Passive,1.0306,P1
+426,York St,HAMILTON CITY,General Open Space,,0.2318,P4
+427,King Street West General Open Space,HAMILTON CITY,General Open Space,,0.0474,P4
+428,Hunter Street General Open Space,HAMILTON CITY,General Open Space,,0.0853,P4
+429,Delottinville Park,HAMILTON CITY,Neighbourhood,,1.5108,P1
+430,Turnball,HAMILTON CITY,Parkette,,0.8912,P1
+431,Sanctuary,HAMILTON CITY,Neighbourhood,,0.2074,P1
+432,Bayfront Trail,HAMILTON CITY,General Open Space,,8.2287,P4
+433,Jackson Heights Open Space,CITY OF HAMILTON,Natural Open Space,,2.9951,P5
+434,Binbrook Rd Open Space,CREIGHTON JOHN KEITH,Natural Open Space,,18.2306,P5
+435,Laidman Park,HAMILTON CITY,Neighbourhood,,1.7683,P1
+436,Summerlea West Park,DJUKIC URSULA,Neighbourhood,,2.0897,P1
+437,Escarpment Ward 5,CITY OF HAMILTON,Natural Open Space,Natural (T),11.2938,P5
+438,Birch Avenue Leash-Free Area,CITY OF HAMILTON,General Open Space,Dog Park,0.6925,
+439,Hill Street Community Gardens,CITY OF HAMILTON,Parkette,,0.2328,
+440,Glenhollow Open Space,HAMILTON CITY,General Open Space,,2.3175,P4
+465,Open Space By North Wentworth Pk 1,HAMILTON CITY,Natural Open Space,,0.9261,P5
+466,Open Space By North Wentworth Pk 2,HAMILTON CITY,Natural Open Space,,4.7564,P5
+467,Open Space By North Wentworth Pk 3,HAMILTON CITY,Natural Open Space,,15.4906,P5
+468,Tapleytown Men's Club Park,HAMILTON CITY,Neighbourhood,Sports,2.0212,P1
+469,Garry Hill Memorial Park,HAMILTON CITY,Parkette,,0.0684,P1
+470,Harvey Park,HAMILTON CITY,General Open Space,Passive,2.4208,P4
+471,Troy Tot Lot,CITY OF HAMILTON,Parkette,(null),0.0892,P1
+472,Mountsberg Park,CITY OF HAMILTON,Neighbourhood,,1.0188,P1
+473,Ryckmans Neighbourhood Park,HAMILTON-WENTWORTH DISTRICT,Neighbourhood,,1.3386,P1
+474,Binbrook Park,HAMILTON CITY,Community,Miscellaneous (T),2.1586,P2
+475,Heritage Green Sports Park,CITY OF HAMILTON,City Wide,Sports,32.5631,P3
+476,Ancaster Arbour Parkette,CITY OF HAMILTON,Parkette,,0.4047,P1
+477,York Blvd Parkette,HAMILTON CITY,General Open Space,,0.1251,P4
+478,York Blvd Parkette 2,HAMILTON CITY,General Open Space,,0.1771,P4
+479,Bill Foley Parkette,HAMILTON CITY,Parkette,,0.322,P1
+480,St.helen's/st.peters Walkway,HAMILTON CITY,Natural Open Space,,1.7091,P5
+481,Summerbrook Park,HAMILTON CITY,Parkette,,0.1396,P1
+482,Perth Park Open Space,HAMILTON CITY,Natural Open Space,,0.256,P5
+483,Fairfield Park,CITY OF HAMILTON,Neighbourhood,(null),0.9725,P1
+484,Peace Park,HAMILTON CITY,Neighbourhood,,0.4084,P1
+485,Cochrane Parkette,HAMILTON CITY,Parkette,,0.0215,P1
+486,Volunteer Field Park,HAMILTON CITY,Community,,1.9339,
+487,Perth Park,HAMILTON CITY,Neighbourhood,,0.7712,P1
+488,Balfour Park,City of Hamilton,Parkette,Walkway,0.1732,
+489,Winona Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,4.0352,
+490,Faircourt Park,HAMILTON CITY,Natural Open Space,Passive,2.2624,P5
+491,Hopkins Rotary Park,HAMILTON CITY,Neighbourhood,Passive,0.4585,P1
+492,Cherry Beach,CITY OF HAMILTON,Natural Open Space,,0.989,
+493,,CITY OF HAMILTON,Parkette,,0.3105,
+494,Red Hill Valley,HAMILTON CITY,Natural Open Space,Natural (T),37.5144,P5
+495,Escarpment Ward 5,CITY OF HAMILTON,Natural Open Space,,13.5613,P5
+496,Carlisle Walkway,CITY OF HAMILTON,General Open Space,(null),0.127,P4
+497,Pleasant Avenue Parkette,CITY OF HAMILTON,Parkette,,0.0905,
+498,Tower Park,HAMILTON CITY,Neighbourhood,,1.3843,P1
+499,Stinson Street Playground,HAMILTON-WENTWORTH DISTRICT,Parkette,SCHOOL SITE,0.042,
+500,Beach Strip Open Space - Confederation Park,HAMILTON CITY,Natural Open Space,Undeveloped,10.8963,P5
+501,Beach Strip Open Space,HAMILTON CITY,Natural Open Space,Undeveloped,24.696,P5
+535,Delta Secondary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.491,
+536,Queen Victoria Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.2642,
+537,Sir John A. Macdonald Secondary,HAMILTON-WENTWORTH DISTRICT,School Site,,3.2493,
+538,Beverly Central  Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.5886,
+539,Canadian Martyrs' Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.1216,
+540,St. Gabriel Elementary,HAMILTON-WENTWORTH CATHOLIC,School Site,,2.2929,
+541,Sacred Heart Of Jesus,HAMILTON-WENTWORTH ROMAN CAT,School Site,,0.464,
+542,St. Ann Elementary (Hamilton),HAMILTON-WENTWORTH ROMAN CAT,School Site,,0.3037,
+543,Viscount Montgomery Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.6812,
+544,Cathy Weaver Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.2981,
+545,Holy Name Of Mary Elementary,HAMILTON-WENTWORTH CATHOLIC,School Site,,4.0255,
+546,Norwood Park Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.2235,
+547,Ancaster Senior/fessenden Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,8.2107,
+548,St. Thomas The Apostle Elementary,HAMILTON-WENTWORTH CATHOLIC,School Site,,2.3734,
+549,St. Teresa Of Avila Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.2259,
+550,St. Teresa Of Avila Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,0.1362,
+551,St. Thérèse Of Lisieux Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,4.338,
+552,Holy Name Of Jesus Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,0.6301,
+553,Bishop Ryan Secondary,HAMILTON-WENTWORTH CATHOLIC,School Site,,7.3251,
+502,Dofasco Property,CITY OF HAMILTON,Parkette,Passive,0.0657,P1
+503,Bishop Tonnos Secondary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,6.0941,
+504,Vincent Massey Park,HAMILTON CITY,Neighbourhood,,0.9844,
+505,Tim Hortons Field,HAMILTON CITY,City Wide,Sports,5.4526,P3
+506,Red Hill Valley,HAMILTON CITY,Natural Open Space,Natural (T),17.0545,P5
+507,King's Forest Golf Course,HAMILTON CITY,General Open Space,Sports,105.6014,P4
+508,Escarpment Ward 1,HAMILTON CITY,Natural Open Space,Natural (T),14.186,P5
+509,Chedoke Golf Course,HAMILTON CITY,General Open Space,Sports,124.0188,P4
+510,Escarpment Rail Trail,CITY OF HAMILTON,General Open Space,Trail,5.482,P4
+511,Smokey Hollow Open Space,City of Hamilton,Natural Open Space,,1.853,
+512,Cranberry Park,MATTAMY (WATERDOWN) LIMITED,Neighbourhood,,2.0278,P1
+513,Westdale North Open Space,ROYAL BOTANICAL GARDENS,Natural Open Space,Natural (T),24.8286,P5
+514,Churchill Gardens/aviary,ROYAL BOTANICAL GARDENS CHUR,General Open Space,Miscellaneous (T),4.5586,P4
+515,Golf Links Park #1,HAMILTON CITY,Neighbourhood,Passive,2.4249,P1
+516,Helen Detwiler Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,3.651,
+517,St. David Elementary,HAMILTON-WENTWORTH CATHOLIC,School Site,,2.2854,
+518,St. Luke Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.3263,
+519,Bellmoore Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,3.2397,
+520,Ancaster High School,HAMILTON-WENTWORTH DISTRICT,School Site,,17.3116,
+521,Millgrove Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.4531,
+522,Tapleytown Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.3223,
+523,Hillcrest Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.2884,
+524,St. Mark Elementary,HAMILTON-WENTWORTH CATHOLIC,School Site,,1.9043,
+525,St. Thomas More Secondary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,7.9202,
+526,Highview Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.7782,
+527,Hess Street Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,0.7219,
+528,Gordon Price Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.2294,
+529,Billy Green  Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.728,
+530,St. John The Baptist Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,0.427,
+531,Dalewood  Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.8987,
+532,St. Eugene Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.0045,
+533,Gatestone Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.8758,
+534,Dr. J. Seaton Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,5.8201,
+451,Golf Links Rd. Open Space 3,HAMILTON CITY,General Open Space,,0.1413,P4
+452,Golf Links Rd. Open Space 1,HAMILTON CITY,General Open Space,,0.5728,P4
+453,Hamilton Court House,HAMILTON CITY,General Open Space,,0.3229,P4
+454,Hill Park Recreation,HAMILTON CITY,Community,,0.2026,P2
+455,Open Space By North Wentworth Pk 4,HAMILTON CITY,Natural Open Space,,3.4523,P5
+456,Rockcliffe Gardens,HAMILTON CITY,Neighbourhood,Sports,1.6191,P1
+457,Rockcliffe Gardens,HAMILTON CITY,General Open Space,Sports,1.5076,P4
+458,Huntingwood Ave Open Space,HAMILTON CITY,Natural Open Space,,3.4244,P5
+459,Escarpment Open Space,CITY OF HAMILTON,Natural Open Space,,14.6998,P5
+460,Escarpment Open Space,CITY OF HAMILTON,Natural Open Space,,2.4862,P5
+461,Matilda Street Natural Playground,HAMILTON CITY,Neighbourhood,Playground,0.1035,P1
+462,Leisure Park Open Space,TOWN OF FLAMBOROUGH,Natural Open Space,,30.5398,P5
+463,Joe Sams Leisure Park,TOWN OF FLAMBOROUGH,City Wide,,43.3634,P3
+464,Flamborough Centre Park,HAMILTON CITY,Neighbourhood,Sports,4.7935,P1
+554,St. Clare Of Assisi Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.3334,
+555,Queen's Rangers Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,3.0867,
+556,Immaculate Heart Of Mary Elementary,1445488 ONTARIO INC,School Site,,2.0338,
+557,St. Marguerite D'youville Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.5135,
+558,St. Patrick Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,0.4866,
+559,R. L. Hyslop Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,0.8838,
+560,St. Jean De Brébeuf Secondary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,7.7756,
+561,Mary Hopkins Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.1142,
+562,St. Mary Secondary Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,5.8965,
+563,St. Matthew Elementary,HAMILTON-WENTWORTH CALTHOLIC,School Site,,2.15,
+564,Memorial Stoney Creek Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.5632,
+565,École Élémentaire Michaëlle Jean,HAMILTON-WENTWORTH DISTRICT,School Site,,3.2387,
+566,Allan A. Greenleaf Elementary And Waterdown Distri,HAMILTON-WENTWORTH DISTRICT,School Site,,8.0198,
+567,St. Kateri Tekakwitha Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.8043,
+568,St. Brigid Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,0.518,
+569,Ryerson Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,0.9425,
+570,Dundana Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.4127,
+571,St. Paul Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.4142,
+572,St. Ann Elementary (Ancaster),HAMILTON-WENTWORTH CATHOLIC,School Site,,1.1128,
+573,Corpus Christi Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.7083,
+574,St. Augustine Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,0.9828,
+575,St. Margaret Mary Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,0.8094,
+576,Annunciation Of Our Lord Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,2.2713,
+577,Tiffany Hills Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.524,
+578,Ray Lewis Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,3.2374,
+579,St. Bernadette Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.9934,
+580,Westdale Secondary School,HAMILTON-WENTWORTH DISTRICT,School Site,(null),4.604,
+581,Balaclava Elementary School,HAMILTON-WENTWORTH DISTRICT,School Site,,4.0543,
+582,St. James The Apostle Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.4209,
+583,Janet Lee Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.0245,
+584,Our Lady Of Mount Carmel Elementary,HAMILTON WENTWORTH CATHOLIC,School Site,(null),,
+585,St. Francis Xavier Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.8106,
+586,Buchanan Park Elementary School,HAMILTON-WENTWORTH DISTRICT,School Site,,2.505,
+587,Cathedral High School,HAMILTON-WENTWORTH ROMAN CAT,School Site,,2.6601,
+588,Spencer Valley Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,3.438,
+589,Blessed Sacrament Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.6201,
+590,Dundas Valley Secondary,HAMILTON-WENTWORTH DISTRICT,School Site,,6.5457,
+591,Holbrook Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,0.913,
+592,Green Acres Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.8432,
+593,Benetto Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.903,
+594,Immaculate Conception Elementary,HAMILTON-WENTWORTH CATHOLIC,School Site,,2.6284,
+595,Guy B. Brown Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.0231,
+596,St. Martin Of Tours Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.6337,
+597,St. John Paul Ii Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,2.7289,
+598,Queensdale Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.8711,
+599,Regina Mundi Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.9056,
+600,Pauline Johnson Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,3.7267,
+601,Guardian Angels Elementary,HAMILTON-WENTWORTH CATHOLIC,School Site,,5.0188,
+602,Franklin Road Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.6716,
+603,Dundas Central Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,0.97,
+604,St. Anthony Daniel Elementary,HAMILTON-WENTWORTH CATHOLIC,School Site,,1.5813,
+605,St. Joachim Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,2.128,
+606,Sts. Peter And Paul Elementary Shool And St. Charl,HAMILTON-WENTWORTH ROMAN CAT,School Site,,2.1819,
+607,Nora Frances Henderson Secondary,HAMILTON-WENTWORTH DISTRICT,School Site,,6.0421,
+608,Prince Of Wales Elementary,HAMILTON-WENTWORTH DISTRICT,,,0.417,
+609,St. Agnes Elementary,HAMILTON-WENTWORTH ROMAN CAT,School Site,,1.7188,
+610,W. H. Ballard Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,1.0943,
+611,Yorkview Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.0322,
+612,Mount Hope Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,3.497,
+613,Flamborough Centre Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,3.9292,
+614,Ancaster Meadow Elementary School,HAMILTON-WENTWORTH DISTRICT,School Site,,2.4167,
+615,C.h. Bray Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,2.3255,
+616,Dr. J.e. Davey Elementary,HAMILTON-WENTWORTH DISTRICT,School Site,,0.8678,

@@ -1,0 +1,944 @@
+[
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "North Wentworth Community Centre",
+    "LONGITUDE": "-79.92254635",
+    "LATITUDE": "43.31294721"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ancaster Old Town Hall",
+    "LONGITUDE": "-79.97626454",
+    "LATITUDE": "43.2255123"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ryerson Recreation Centre",
+    "LONGITUDE": "-79.88235644",
+    "LATITUDE": "43.25381279"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Sealey Park Scout Hall",
+    "LONGITUDE": "-79.88922044",
+    "LATITUDE": "43.33081521"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Sheffield Community Hall",
+    "LONGITUDE": "-80.20074399",
+    "LATITUDE": "43.29704068"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Sir Allan Macnab Recreation Centre",
+    "LONGITUDE": "-79.92168666",
+    "LATITUDE": "43.23107007"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Sir Wilfrid Laurier Recreation Centre",
+    "LONGITUDE": "-79.78676166",
+    "LATITUDE": "43.2178171"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Sir Winston Churchill Recreation Centre",
+    "LONGITUDE": "-79.79571434",
+    "LATITUDE": "43.2375585"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Stoney Creek Optomist Community Centre",
+    "LONGITUDE": "-79.75852769",
+    "LATITUDE": "43.22574089"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Redeemer Sports Complex",
+    "LONGITUDE": "-79.95200162",
+    "LATITUDE": "43.2121063"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ancaster Senior Achievement Centre (Asac)",
+    "LONGITUDE": "-80.07058372",
+    "LATITUDE": "43.18453818"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Valens Community Hall",
+    "LONGITUDE": "-80.13089848",
+    "LATITUDE": "43.38286223"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Valley Community Centre (Nigel Charlong)",
+    "LONGITUDE": "-79.90846575",
+    "LATITUDE": "43.3016607"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Valley Park Rec Centre",
+    "LONGITUDE": "-79.79810584",
+    "LATITUDE": "43.19290424"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Waterdown Memorial Hall",
+    "LONGITUDE": "-79.89259153",
+    "LATITUDE": "43.33408713"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Westmount Recreation Centre",
+    "LONGITUDE": "-79.89431613",
+    "LATITUDE": "43.22837266"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Winona Scout Hall",
+    "LONGITUDE": "-79.64564257",
+    "LATITUDE": "43.2096953"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Winona Senior Citizen Centre",
+    "LONGITUDE": "-79.65308487",
+    "LATITUDE": "43.20874439"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Woodburn Centennial Hall",
+    "LONGITUDE": "-79.74280634",
+    "LATITUDE": "43.14656891"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ymca - Hamilton Downtown Family",
+    "LONGITUDE": "-79.86988423",
+    "LATITUDE": "43.25432327"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Mountsberg Hall",
+    "LONGITUDE": "-80.04209172",
+    "LATITUDE": "43.43422646"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Sackville Hill Senior's Centre",
+    "LONGITUDE": "-79.86260427",
+    "LATITUDE": "43.22447691"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Spring Valley Community Centre",
+    "LONGITUDE": "-79.99783953",
+    "LATITUDE": "43.21714491"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Dominic Agostino Riverdale Community Centre",
+    "LONGITUDE": "-79.75676735",
+    "LATITUDE": "43.23251479"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ymca - Flamborough Family",
+    "LONGITUDE": "-79.91227132",
+    "LATITUDE": "43.33428596"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ywca - Hamilton Family - Macnab St",
+    "LONGITUDE": "-79.87156481",
+    "LATITUDE": "43.25423089"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Soccer World",
+    "LONGITUDE": "-79.89413985",
+    "LATITUDE": "43.25721965"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Mountain Sports Complex",
+    "LONGITUDE": "-79.83707187",
+    "LATITUDE": "43.19887195"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Players Paradise Sports Complex",
+    "LONGITUDE": "-79.70248013",
+    "LATITUDE": "43.23107028"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Lakeland Centre",
+    "LONGITUDE": "-79.76832328",
+    "LATITUDE": "43.26209559"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Stoney Creek Recreation Centre",
+    "LONGITUDE": "-79.76306025",
+    "LATITUDE": "43.21763051"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "David Braley Athletic Centre",
+    "LONGITUDE": "-79.91616539",
+    "LATITUDE": "43.26504364"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Norman Pinky Lewis Recreation Centre",
+    "LONGITUDE": "-79.84530807",
+    "LATITUDE": "43.25704669"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Bernie Morelli Recreation Centre",
+    "LONGITUDE": "-79.82997442",
+    "LATITUDE": "43.25004711"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "F.h. Sherman Recreation And Learning Centre",
+    "LONGITUDE": "-79.75400704",
+    "LATITUDE": "43.19518011"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ymca - Les Chater Family",
+    "LONGITUDE": "-79.87804501",
+    "LATITUDE": "43.19836189"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Main Hess Senior Centre",
+    "LONGITUDE": "-79.87764733",
+    "LATITUDE": "43.25603688"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ancaster Aquatic Centre",
+    "LONGITUDE": "-80.00628298",
+    "LATITUDE": "43.2151688"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ancaster Rotary Centre",
+    "LONGITUDE": "-80.00778934",
+    "LATITUDE": "43.21807225"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Beasley Community Centre",
+    "LONGITUDE": "-79.86178273",
+    "LATITUDE": "43.25805134"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Bennetto Community Centre",
+    "LONGITUDE": "-79.86093697",
+    "LATITUDE": "43.27008977"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Beverly Community Centre",
+    "LONGITUDE": "-80.11127818",
+    "LATITUDE": "43.2986764"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Beverly Township Hall",
+    "LONGITUDE": "-80.12663304",
+    "LATITUDE": "43.30047207"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Binbrook Memorial Hall",
+    "LONGITUDE": "-79.80403785",
+    "LATITUDE": "43.12300553"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "H.g. Brewster Pool",
+    "LONGITUDE": "-79.71154334",
+    "LATITUDE": "43.21809991"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Carlisle Community Centre",
+    "LONGITUDE": "-79.98131996",
+    "LATITUDE": "43.3967785"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Carlisle Memorial Hall",
+    "LONGITUDE": "-79.98147986",
+    "LATITUDE": "43.3939429"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Carluke Hall",
+    "LONGITUDE": "-79.98547541",
+    "LATITUDE": "43.14540748"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Central Memorial Recreation Centre",
+    "LONGITUDE": "-79.85924282",
+    "LATITUDE": "43.24954329"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ada Bland \"Club 60\" Senior Citizen Centre",
+    "LONGITUDE": "-79.75834236",
+    "LATITUDE": "43.21735504"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Dalewood Recreation Centre",
+    "LONGITUDE": "-79.91315458",
+    "LATITUDE": "43.25836395"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Dundas Community Pool",
+    "LONGITUDE": "-79.96355633",
+    "LATITUDE": "43.26547443"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Dundas Lions Memorial Community Centre",
+    "LONGITUDE": "-79.9635936",
+    "LATITUDE": "43.26737906"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Eastmount Community Centre",
+    "LONGITUDE": "-79.84866004",
+    "LATITUDE": "43.23643372"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Fruitland Lions Community Hall",
+    "LONGITUDE": "-79.704599",
+    "LATITUDE": "43.21853664"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Glanbrook Arena & Auditorium",
+    "LONGITUDE": "-79.83872097",
+    "LATITUDE": "43.13002607"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Greensville Hall",
+    "LONGITUDE": "-79.98836484",
+    "LATITUDE": "43.27684613"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ywca - Hamilton Family - Ottawa St",
+    "LONGITUDE": "-79.81884626",
+    "LATITUDE": "43.24396148"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Hill Park Recreation Centre",
+    "LONGITUDE": "-79.86312511",
+    "LATITUDE": "43.22781851"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Huntington Park Recreation Centre",
+    "LONGITUDE": "-79.82939339",
+    "LATITUDE": "43.22074723"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Jimmy Thompson Pool",
+    "LONGITUDE": "-79.83025856",
+    "LATITUDE": "43.24939123"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "East Kiwanis Boys & Girls Club",
+    "LONGITUDE": "-79.81073839",
+    "LATITUDE": "43.24855415"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Kiwanis Community Centre",
+    "LONGITUDE": "-79.69127601",
+    "LATITUDE": "43.2134815"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Ancaster Lion's Outdoor Pool",
+    "LONGITUDE": "-79.99969967",
+    "LATITUDE": "43.2182325"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Lynden Community Centre",
+    "LONGITUDE": "-80.14621042",
+    "LATITUDE": "43.22657986"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Millgrove Community Centre",
+    "LONGITUDE": "-79.95942803",
+    "LATITUDE": "43.33515359"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Mount Hope Community Hall/youth Centre",
+    "LONGITUDE": "-79.91142878",
+    "LATITUDE": "43.16022469"
+  },
+  {
+    "TYPE": "CommunityCentre",
+    "NAME": "Eva Rothwell Resource Centre",
+    "LONGITUDE": "-79.84286449",
+    "LATITUDE": "43.26494955"
+  },
+  {
+    "TYPE": "Beach",
+    "NAME": "Valens Conservation Area",
+    "LONGITUDE": "-80.13962988",
+    "LATITUDE": "43.38361646"
+  },
+  {
+    "TYPE": "Beach",
+    "NAME": "Christie Conservation Area",
+    "LONGITUDE": "-80.02333845",
+    "LATITUDE": "43.28068864"
+  },
+  {
+    "TYPE": "Beach",
+    "NAME": "Binbrook Conservation Area",
+    "LONGITUDE": "-79.8330902",
+    "LATITUDE": "43.10163287"
+  },
+  {
+    "TYPE": "Beach",
+    "NAME": "Bayfront Park",
+    "LONGITUDE": "-79.87442364",
+    "LATITUDE": "43.27156254"
+  },
+  {
+    "TYPE": "Beach",
+    "NAME": "Pier 4 Park",
+    "LONGITUDE": "-79.86750593",
+    "LATITUDE": "43.27366276"
+  },
+  {
+    "TYPE": "Beach",
+    "NAME": "Beach Boulevard",
+    "LONGITUDE": "-79.78337488",
+    "LATITUDE": "43.28091547"
+  },
+  {
+    "TYPE": "Beach",
+    "NAME": "Van Wagner's",
+    "LONGITUDE": "-79.76755756",
+    "LATITUDE": "43.26175556"
+  },
+  {
+    "TYPE": "Beach",
+    "NAME": "Confederation Park",
+    "LONGITUDE": "-79.75648925",
+    "LATITUDE": "43.25187542"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Mohawk 4 Ice Centre",
+    "LONGITUDE": "-79.81712556",
+    "LATITUDE": "43.20947255"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Beverly Arena",
+    "LONGITUDE": "-80.11132698",
+    "LATITUDE": "43.29850976"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Carlisle Arena",
+    "LONGITUDE": "-79.98131996",
+    "LATITUDE": "43.3967785"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Chedoke Twin Pad Arena",
+    "LONGITUDE": "-79.92059943",
+    "LATITUDE": "43.23866962"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "FirstOntario Centre",
+    "LONGITUDE": "-79.87219967",
+    "LATITUDE": "43.25913792"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Coronation Arena",
+    "LONGITUDE": "-79.89626048",
+    "LATITUDE": "43.26464412"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Eastwood Arena",
+    "LONGITUDE": "-79.8563298",
+    "LATITUDE": "43.27241885"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Glanbrook Arena",
+    "LONGITUDE": "-79.83870498",
+    "LATITUDE": "43.13003003"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Hamilton Doublerink Arena",
+    "LONGITUDE": "-79.78249455",
+    "LATITUDE": "43.24458137"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Inch Park Arena",
+    "LONGITUDE": "-79.85959604",
+    "LATITUDE": "43.23706517"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Bill Friday Lawfield Arena",
+    "LONGITUDE": "-79.85075118",
+    "LATITUDE": "43.21484012"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "J.L. Grightmire (Market Street) Arena",
+    "LONGITUDE": "-79.96252182",
+    "LATITUDE": "43.26601388"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Morgan Firestone Arena",
+    "LONGITUDE": "-80.0076161",
+    "LATITUDE": "43.2180512"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Mountain (Dave Andreychuk) Arena",
+    "LONGITUDE": "-79.88123419",
+    "LATITUDE": "43.22516187"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Harry Howell Arena",
+    "LONGITUDE": "-79.9227884",
+    "LATITUDE": "43.31308838"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Westoby (Olympic) Arena",
+    "LONGITUDE": "-79.93426209",
+    "LATITUDE": "43.27287723"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Pat Quinn Parkdale Arena",
+    "LONGITUDE": "-79.79378837",
+    "LATITUDE": "43.23633026"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Rosedale Arena",
+    "LONGITUDE": "-79.80696013",
+    "LATITUDE": "43.21887587"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Saltfleet Arena",
+    "LONGITUDE": "-79.70484095",
+    "LATITUDE": "43.21796022"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Spring Valley Arena",
+    "LONGITUDE": "-79.99779878",
+    "LATITUDE": "43.21712083"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Stoney Creek Arena",
+    "LONGITUDE": "-79.76400581",
+    "LATITUDE": "43.2165319"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Valley Park Arena",
+    "LONGITUDE": "-79.79798204",
+    "LATITUDE": "43.19284948"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Gateway Ice Centre",
+    "LONGITUDE": "-79.69992694",
+    "LATITUDE": "43.22880903"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "Wentworth Arenas",
+    "LONGITUDE": "-79.94595167",
+    "LATITUDE": "43.24783434"
+  },
+  {
+    "TYPE": "Arena",
+    "NAME": "F.H. Sherman Recreation and Learning Centre Arena",
+    "LONGITUDE": "-79.75438831",
+    "LATITUDE": "43.19566112"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Highview Park",
+    "LONGITUDE": "-79.83266954",
+    "LATITUDE": "43.22930302"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Huntington Park (Recreation Centre)",
+    "LONGITUDE": "-79.82866501",
+    "LATITUDE": "43.22111843"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Lisgar Park",
+    "LONGITUDE": "-79.83081046",
+    "LATITUDE": "43.21053207"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Macassa Park",
+    "LONGITUDE": "-79.84677851",
+    "LATITUDE": "43.2237084"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Mount Lions Park",
+    "LONGITUDE": "-79.84535329",
+    "LATITUDE": "43.20320411"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Templemead Park",
+    "LONGITUDE": "-79.84483017",
+    "LATITUDE": "43.19663674"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Trenholme Park",
+    "LONGITUDE": "-79.82724153",
+    "LATITUDE": "43.20163712"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Eastmount Park",
+    "LONGITUDE": "-79.84836371",
+    "LATITUDE": "43.23624511"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Eleanor Park",
+    "LONGITUDE": "-79.85555946",
+    "LATITUDE": "43.19828109"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Elmar Park",
+    "LONGITUDE": "-79.87557712",
+    "LATITUDE": "43.2031897"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Rushdale Park",
+    "LONGITUDE": "-79.8637904",
+    "LATITUDE": "43.20962041"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Gilkson Park",
+    "LONGITUDE": "-79.91221678",
+    "LATITUDE": "43.22143822"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Gourley Park",
+    "LONGITUDE": "-79.9000608",
+    "LATITUDE": "43.21841234"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Kennedy East Park",
+    "LONGITUDE": "-79.90204047",
+    "LATITUDE": "43.20212037"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Mountview Park",
+    "LONGITUDE": "-79.92538957",
+    "LATITUDE": "43.2392824"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Shawinigan Park",
+    "LONGITUDE": "-79.92038585",
+    "LATITUDE": "43.22205106"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "William McCulloch Park",
+    "LONGITUDE": "-79.90761683",
+    "LATITUDE": "43.22908364"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Gage Park",
+    "LONGITUDE": "-79.82985018",
+    "LATITUDE": "43.24310529"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Billy Sherring Park",
+    "LONGITUDE": "-79.86516779",
+    "LATITUDE": "43.19913817"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Jack C. Beemer Park",
+    "LONGITUDE": "-79.85526379",
+    "LATITUDE": "43.25516841"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Churchill Park",
+    "LONGITUDE": "-79.90340148",
+    "LATITUDE": "43.265184"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Lawfield Park",
+    "LONGITUDE": "-79.85032289",
+    "LATITUDE": "43.21463454"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Fairgrounds Community Park",
+    "LONGITUDE": "-79.81280696",
+    "LATITUDE": "43.12404919"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Winona Park",
+    "LONGITUDE": "-79.64635318",
+    "LATITUDE": "43.20958899"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Village Green Park",
+    "LONGITUDE": "-79.9758379",
+    "LATITUDE": "43.22486148"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Dundas Driving Park",
+    "LONGITUDE": "-79.9518138",
+    "LATITUDE": "43.27165345"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Henry and Beatrice Warden Park",
+    "LONGITUDE": "-79.75593073",
+    "LATITUDE": "43.22820035"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Allison Neighbourhood Park",
+    "LONGITUDE": "-79.88594915",
+    "LATITUDE": "43.19754682"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Fairfield Park",
+    "LONGITUDE": "-79.79901002",
+    "LATITUDE": "43.24795538"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Hampton Park",
+    "LONGITUDE": "-79.83625309",
+    "LATITUDE": "43.22312269"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Jerome Neighbourhood Park",
+    "LONGITUDE": "-79.87884259",
+    "LATITUDE": "43.21405406"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "North Central Community Park",
+    "LONGITUDE": "-79.84362045",
+    "LATITUDE": "43.26560432"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "William Schwenger Park",
+    "LONGITUDE": "-79.91402449",
+    "LATITUDE": "43.21240103"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Myrtle Park",
+    "LONGITUDE": "-79.84923224",
+    "LATITUDE": "43.24848407"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "H.A.A.A. Grounds",
+    "LONGITUDE": "-79.88431007",
+    "LATITUDE": "43.25345503"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Victoria Park",
+    "LONGITUDE": "-79.88295261",
+    "LATITUDE": "43.26377013"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Beasley Park",
+    "LONGITUDE": "-79.86243805",
+    "LATITUDE": "43.25785759"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Carter Park",
+    "LONGITUDE": "-79.8601545",
+    "LATITUDE": "43.24865394"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Central Park",
+    "LONGITUDE": "-79.87342664",
+    "LATITUDE": "43.26395709"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Eastwood Park (Arena)",
+    "LONGITUDE": "-79.85566753",
+    "LATITUDE": "43.27346123"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "McLaren Park",
+    "LONGITUDE": "-79.86400037",
+    "LATITUDE": "43.26077482"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Pier 4 Park",
+    "LONGITUDE": "-79.86741173",
+    "LATITUDE": "43.27398355"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Belview Park",
+    "LONGITUDE": "-79.82258432",
+    "LATITUDE": "43.25018016"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Lucy Day Park",
+    "LONGITUDE": "-79.83358686",
+    "LATITUDE": "43.2577764"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Powell Park",
+    "LONGITUDE": "-79.8409419",
+    "LATITUDE": "43.25603729"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Andy Warburton Memorial Park",
+    "LONGITUDE": "-79.80255441",
+    "LATITUDE": "43.24521211"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Montgomery Park",
+    "LONGITUDE": "-79.80311979",
+    "LATITUDE": "43.2375529"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Roxborough Park",
+    "LONGITUDE": "-79.78638902",
+    "LATITUDE": "43.23631781"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "St. Christopher Park",
+    "LONGITUDE": "-79.80859985",
+    "LATITUDE": "43.25406307"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Woodward Park",
+    "LONGITUDE": "-79.77732756",
+    "LATITUDE": "43.25011019"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Father Sean O'Sullivan Memorial Park",
+    "LONGITUDE": "-79.77678407",
+    "LATITUDE": "43.2170454"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Glendale Park",
+    "LONGITUDE": "-79.77902278",
+    "LATITUDE": "43.22385566"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Sam Manson Park",
+    "LONGITUDE": "-79.77066643",
+    "LATITUDE": "43.23293189"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Veevers Park",
+    "LONGITUDE": "-79.78375597",
+    "LATITUDE": "43.20934736"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Berrisfield Park",
+    "LONGITUDE": "-79.84001855",
+    "LATITUDE": "43.21083156"
+  },
+  {
+    "TYPE": "SplashPad",
+    "NAME": "Broughton Park East",
+    "LONGITUDE": "-79.84980051",
+    "LATITUDE": "43.18933239"
+  }
+]
